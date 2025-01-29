@@ -4,6 +4,7 @@
 
 🚀 Unveiling the trends shaping today's workforce! This project analyzes real-time survey data to explore job roles, diversity, income levels, and work-life balance happiness. The goal? To visualize and decode the patterns influencing career satisfaction and economic trends across industries and regions.
 
+<img width="1424" alt="Screenshot 2025-01-29 at 15 41 30" src="https://github.com/user-attachments/assets/369870b5-e5c5-4260-bd96-a8b7bff3c618" />
 🔍 What's Inside?
 
 📊 Interactive Power BI Dashboards revealing:
@@ -18,6 +19,8 @@
 💡 Power BI – Data visualization & storytelling
 📂 Excel/CSV – Data preprocessing & cleaning
 📊 Analytics – Aggregations, filtering, trend analysis
+🧮 DAX (Data Analysis Expressions)
+
 
 🌟 Key Insights & Takeaways:
 🔹 Top Countries: Majority of survey takers are from the U.S. & India
@@ -26,6 +29,6 @@
 🔹 Income Happiness: Lower at 4.27/10, showing a gap in expectations vs. reality
 🔹 Most Popular Language: Python dominates across job roles 🐍
 🔹 Career Entry Difficulty: Many find it challenging to break into data roles 🚀
+🔹 DAX Implementation: Used DAX measures to calculate key metrics, aggregates, and rankings for deeper insights 📊
 
 
-<img width="1424" alt="Screenshot 2025-01-29 at 15 41 30" src="https://github.com/user-attachments/assets/369870b5-e5c5-4260-bd96-a8b7bff3c618" />
