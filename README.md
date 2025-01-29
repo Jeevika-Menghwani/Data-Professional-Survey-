@@ -27,3 +27,5 @@
 🔹 Most Popular Language: Python dominates across job roles 🐍
 🔹 Career Entry Difficulty: Many find it challenging to break into data roles 🚀
 
+
+<img width="1424" alt="Screenshot 2025-01-29 at 15 41 30" src="https://github.com/user-attachments/assets/369870b5-e5c5-4260-bd96-a8b7bff3c618" />
